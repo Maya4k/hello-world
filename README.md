@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi to all!!!
+
+It's a perfect day for a first commit.
+
